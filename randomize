@@ -1,3 +1,4 @@
+//Special thanks to whoever wrote this javvascript that was handed to me
 //start randomize number
 var randomizeX = function (base) {
     var d, returnValue, r;
